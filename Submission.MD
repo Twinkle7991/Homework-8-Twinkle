@@ -5,7 +5,7 @@ Se 441
 DOCKER
 
 5pts) Your dockerfile. Please provide a link to this file rather than a screen capture.
-![Screen capture of Docker file#1](images/ant-version-dir.JPG)
+![Screen capture of Docker file#1](Screensnaps/docker0.JPG)
  
 5 pts Your running docker instance as shown by a ps command. 
  
