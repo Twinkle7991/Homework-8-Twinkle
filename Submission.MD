@@ -27,7 +27,7 @@ DOCKER COMPOSE - MYSQL ONLY
 
 DOCKER COMPOSE - APP SERVER AND MYSQL
 5 pts Your updated docker-compose.yml file containing the application server, built from your local Dockerfile, and the existing MySQL configuration. Please provide a link to this file rather than a screen capture. 
-  ![APP#1](docker-compose.yml)
+  ![docker-compose.yml](docker-compose.yml)
   ![APP#1](Screensnaps/app1.jpg)
 
 
